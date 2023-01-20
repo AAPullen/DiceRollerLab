@@ -36,4 +36,5 @@ while (playGame == false)
     {
         Console.WriteLine("You have made an invalid entry for number of sides. Please enter an integer.");
     }
+    Console.WriteLine("Thanks for playing!");
 }
